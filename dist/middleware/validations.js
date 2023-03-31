@@ -1,9 +1,5 @@
 "use strict";
-// import { Request, Response, NextFunction } from 'express';
-// import httpStatus from 'http-status';
-// import { errorResponse } from '../utils/helperMethods';
-// import {
-// } from '../utils/utils';
+Object.defineProperty(exports, "__esModule", { value: true });
 // export const validateSignupUser = (req: Request, res: Response, next: NextFunction) => {
 //   const validateUser = userSchema.validate(req.body, options);
 //   if (validateUser.error) {
